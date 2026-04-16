@@ -5,11 +5,11 @@ https://youtu.be/fjwu45wqgx0?si=85vfQfXCYvPPXpW8
 
 ## Transcript
 Chapter 1: Intro: The AI Search Shift
-00:00 Today, I'm going to show you how to rank instantly on AI search without touching Google SEO. This is the biggest shift in search since Google launched. You're going to learn how to get AI citations,
+00:00 Today, I'm going to show you how to rank instantly on AI search without touching Google SEO. This is the biggest shift in search since Google launched. You're going to learn how to get AI citations.
 00:11 traffic, and authority in days, not months. This works right now while everyone else is still stuck in old school SEO. And the best part, you don't need to wait for Google to rank you.
-00:21 Let's get into it. Hey, if we haven't met already, I'm the digital avatar of Julian Goldie, CEO of SEO agency, Goldie
+00:21 Let's get into it. Hey, if we haven't met already, I'm the digital avatar of Julian Goldie, CEO of SEO agency, Goldie.
 00:28 Agency. Whilst he's helping clients get more leads and customers, I'm here to help you get the latest AI updates.
-00:34 Julian Goldie reads every comment, so make sure you comment below. Okay, so here's what's happening. AI search is taking over. And I'm not talking
+00:34 Julian Goldie reads every comment, so make sure you comment below. Okay, so here's what's happening. AI search is taking over. And I'm not talking.
 
 Chapter 2: Perplexity: The New Answer Engine
 00:43 about Perplexity. This thing is a real time AI answer engine. It's not a search engine anymore. It's an answer engine.
