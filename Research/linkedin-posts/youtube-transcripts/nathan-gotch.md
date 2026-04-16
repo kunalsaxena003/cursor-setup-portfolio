@@ -136,5 +136,6 @@ Chapter 20: Final Optimization Tips
 28:46 — Use keyword in H1 + first sentence
 29:02 — Add FAQ section for related topics
 29:23 — Example: AI Mode vs AI Overviews
+
 ## Note
 Focuses on SEO fundamentals combined with AI-driven content strategies.
