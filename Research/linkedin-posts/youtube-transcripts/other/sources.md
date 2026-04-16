@@ -38,4 +38,9 @@
 -Link: (https://youtu.be/gyWQeIGzc3k?si=r6b7k4gQ1u5ImWTI)
 -Date: (16-04-2026)
 -Note:  Specializes in AI SEO and content quality expert
+#Grease Leung
+-Platform: Youtube
+-Link: (https://youtu.be/yLXLHnD4fco?si=2M9wuV6ziGLQq43e)
+-Date: (16-04-2026)
+-Note:  Provides AI tool workflows for marketers
 
