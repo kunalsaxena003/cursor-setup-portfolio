@@ -132,5 +132,5 @@ This repository serves as a structured research base that can be used to develop
 
 - Cursor IDE  
 - GitHub  
-- Claude / Codex  
+- Claude 
 - YouTube transcript tools  

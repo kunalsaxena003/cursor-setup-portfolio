@@ -1,9 +1,9 @@
-##Ryan Doser - SEO Automation
+## Ryan Doser - SEO Automation
 
-##Source:
+## Source:
 (https://youtu.be/c2dwmdcmF88?si=V_u--az0btXV8Jw1)
 
-#Transcript
+## Transcript
 Introduction
 
 In this video, the creator explains a Claude Code SEO workflow that takes a YouTube video URL and converts it into a fully SEO-optimized blog post in a single step. The process takes about 60 seconds and publishes directly to a website without manual copying or pasting. The output is structured, formatted, and optimized automatically, matching the quality of a manually written SEO article. The video also mentions that the SEO skill used in this workflow is available for free through the creator’s guide, along with other AI tools and automations.
@@ -60,4 +60,4 @@ Final thoughts
 
 The main takeaway is that this workflow automates the entire process of turning video content into SEO-optimized blog posts. It combines transcript extraction, AI writing, media generation, and direct publishing into a single pipeline. While the system is highly efficient, the creator emphasizes the importance of human review, customization of the SEO skill, and continuous improvement to achieve consistent results.
 
-##Note : Provides AI marketing + SEO automation
+## Note : Provides AI marketing + SEO automation

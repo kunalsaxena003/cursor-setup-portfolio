@@ -1,6 +1,6 @@
 ## Grace Leung - AI SEO
 
-##Sources: 
+## Sources: 
 (https://youtu.be/yLXLHnD4fco?si=2M9wuV6ziGLQq43e)
 
 ## Transcript
