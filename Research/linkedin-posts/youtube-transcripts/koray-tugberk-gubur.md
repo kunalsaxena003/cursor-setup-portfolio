@@ -1,6 +1,6 @@
-#Koray Tugberk GUBUR
+## Koray Tugberk GUBUR
 
-#Source
+## Source
 (https://youtu.be/FAJonNdKqw0?si=9_QhKCN_qQr3Fxbb)
 
 #Transcript
@@ -102,5 +102,5 @@ This is not the last case study. Even though I am busy, I will continue sharing 
 
 If you want to learn more, you can follow the series and stay connected with the community. Thank you for your time, and I will see you in the next video.
 
-#Note : Provides unique perspective on improving rankings.
+## Note : Provides unique perspective on improving rankings.
 

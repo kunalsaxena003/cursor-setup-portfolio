@@ -1,4 +1,4 @@
-# Nathan Gotch - AI SEO
+## Nathan Gotch - AI SEO
 
 ## Source
 (https://youtu.be/m5-YU5cPo10?si=uxa_LeP55yzyyJHc)

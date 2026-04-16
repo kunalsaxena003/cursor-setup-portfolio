@@ -1,4 +1,4 @@
-# Julian Goldie - AI SEO
+## Julian Goldie - AI SEO
 
 ## Source
 https://youtu.be/fjwu45wqgx0?si=85vfQfXCYvPPXpW8

@@ -1,9 +1,9 @@
-#Grace Leung - AI SEO
+## Grace Leung - AI SEO
 
 ##Sources: 
 (https://youtu.be/yLXLHnD4fco?si=2M9wuV6ziGLQq43e)
 
-#Transcript
+## Transcript
 Claude is becoming increasingly powerful and efficient, especially for advanced users. The idea explored here is transforming Claude into a complete AI marketing team that can research, write, analyze, and design—working collaboratively. This system can be built step-by-step inside Claude Code, even without technical expertise.
 
 To design an AI marketing team in Claude, there are four key steps. First, map out your marketing functions by identifying the tasks you perform weekly. Second, convert each repeatable task into a skill, ideally assigning one skill per workflow. Third, group similar skills into focused, non-overlapping agent roles to improve output quality. Finally, connect these agents and skills into a cohesive system by structuring your project so Claude understands when to use agents versus individual skills.

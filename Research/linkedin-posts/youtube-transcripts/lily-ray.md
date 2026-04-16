@@ -1,6 +1,6 @@
-#Lily Ray - Content Quality Expert
+## Lily Ray - Content Quality Expert
 
-##Source:
+## Source:
 (https://youtu.be/gyWQeIGzc3k?si=r6b7k4gQ1u5ImWTI)
 
 #Transcript
@@ -28,4 +28,4 @@ The key takeaway is that simply improving existing content is not enough. Site o
 
 Ultimately, while the situation is difficult and frustrating for many site owners, especially those who have lost significant traffic and revenue, the path forward involves long-term commitment and substantial effort. Recovery is possible, but it requires patience, consistency, and a shift away from purely SEO-driven strategies toward more authentic and user-focused content creation.
 
-#Note: Specializes in AI SEO and content quality expert
+## Note: Specializes in AI SEO and content quality expert

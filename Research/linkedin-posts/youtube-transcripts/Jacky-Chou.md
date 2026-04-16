@@ -1,4 +1,4 @@
-#Jacky Chou
+## Jacky Chou
 
 ##Source:
 (https://youtu.be/CisEs9eMEGk?si=wQzAj8kZTiDa23HY)
@@ -18,5 +18,5 @@ A key tactic mentioned is making URLs non-clickable within the embedded content 
 
 Finally, the process concludes with ordering PBN links and instructing the provider to include the generated embed code in each article. The speaker suggests directly communicating with service providers to ensure proper implementation. Overall, the method combines low-cost citations, PBN tiering, keyword optimization, and structured data embedding to improve local search rankings.
 
-#Note: Updates on AI SEO tools in practice
+## Note: Updates on AI SEO tools in practice
 

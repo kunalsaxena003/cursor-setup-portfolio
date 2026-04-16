@@ -1,4 +1,4 @@
-#Ryan Doser - SEO Automation
+##Ryan Doser - SEO Automation
 
 ##Source:
 (https://youtu.be/c2dwmdcmF88?si=V_u--az0btXV8Jw1)
@@ -60,4 +60,4 @@ Final thoughts
 
 The main takeaway is that this workflow automates the entire process of turning video content into SEO-optimized blog posts. It combines transcript extraction, AI writing, media generation, and direct publishing into a single pipeline. While the system is highly efficient, the creator emphasizes the importance of human review, customization of the SEO skill, and continuous improvement to achieve consistent results.
 
-#Note : Provides AI marketing + SEO automation
+##Note : Provides AI marketing + SEO automation

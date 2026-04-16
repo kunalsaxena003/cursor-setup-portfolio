@@ -3,7 +3,7 @@
 ## Source
 (https://youtu.be/7U56lzT6jMs?si=2nqWpes6OnOhM6u8)
 
-#Transcript
+## Transcript
 In this video, I’m going to show you how I started a side project that turned into a business that eventually sold for millions. And today, I’m going to show you exactly how I did it and the most important lessons that you can apply to your own business.
 
 Looking back, the number one thing that made a difference was that I took advantage of an opportunity, but not a fad. Before I started my first business, an SEO training company called Backlinko, I struggled with online business. The main reason, looking back, was that I kept jumping from shiny object to shiny object. Whether it was affiliate marketing or something else, it was always a new platform, a new tactic, a new strategy. I was constantly switching instead of focusing on a real opportunity in the market and committing to it long term.

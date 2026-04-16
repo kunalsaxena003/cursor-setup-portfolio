@@ -1,4 +1,4 @@
-# Matt Diggity - AI SEO
+## Matt Diggity - AI SEO
 
 ## Source
 (https://youtu.be/xG9Vu9yrQzw?si=6reBznDi9jU1w-hn)
