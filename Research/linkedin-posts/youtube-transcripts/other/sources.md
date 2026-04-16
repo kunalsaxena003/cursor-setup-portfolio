@@ -47,6 +47,6 @@
 - Platform: Youtube
 - Link: (https://youtu.be/CisEs9eMEGk?si=wQzAj8kZTiDa23HY)
 - Date: (16-04-2026)
-- Note: Updates on AI SEO tools in practice 
+- Note: Updates on AI SEO tools in practice
 
 

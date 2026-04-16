@@ -3,7 +3,7 @@
 ## Source
 (https://youtu.be/FAJonNdKqw0?si=9_QhKCN_qQr3Fxbb)
 
-#Transcript
+## Transcript
 Introduction
 
 You should be ranking as a web entity, not just as a website. That is a different context, and I suggest you look into it carefully. Hello everyone, welcome back to the SEO series episode. In this case study, we will again mention a website that we published earlier. If you have watched most of the videos in the series, you might remember it. I think we have exceeded 40 case studies so far.

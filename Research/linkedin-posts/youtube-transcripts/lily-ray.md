@@ -3,7 +3,7 @@
 ## Source:
 (https://youtu.be/gyWQeIGzc3k?si=r6b7k4gQ1u5ImWTI)
 
-#Transcript
+## Transcript
 Today is about one month and one day after Google launched the March 2024 core and spam updates. Google mentioned that the core update would take up to a month to roll out, and while it feels like we are at the tail end, Google has not officially confirmed that it is complete yet. It’s not uncommon for these updates to take longer than initially stated, especially when there are many adjustments and refinements happening during the rollout.
 
 One of the biggest questions in the SEO industry right now is why sites impacted by the September 2023 Helpful Content Update have not shown signs of recovery. From analyzing a large dataset of sites—often in the thousands—there has been little to no positive movement. Most sites remain flat or continue to decline in visibility and traffic, which is surprising given that Google has previously suggested improvements could be seen within a few months.

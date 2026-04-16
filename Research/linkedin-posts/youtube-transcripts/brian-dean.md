@@ -1,4 +1,4 @@
-# Brian-Dean - AI SEO
+## Brian-Dean - AI SEO
 
 ## Source
 (https://youtu.be/7U56lzT6jMs?si=2nqWpes6OnOhM6u8)

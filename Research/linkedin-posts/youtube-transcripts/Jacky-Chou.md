@@ -1,9 +1,9 @@
 ## Jacky Chou
 
-##Source:
+## Source:
 (https://youtu.be/CisEs9eMEGk?si=wQzAj8kZTiDa23HY)
 
-#Transcript
+## Transcript
 In this video, the speaker explains how to rank number one locally using a budget of $100, emphasizing that this amount is usually enough to purchase two essential SEO gigs. The focus of the discussion is on local SEO, with the claim that most people overcomplicate the process when, in reality, a simple and low-cost approach can be effective.
 
 The speaker shares some personal performance metrics, including earnings from different sources such as Amazon and ad revenue platforms, while briefly acknowledging fluctuations in site performance. He then transitions into the core strategy, which revolves around purchasing cheap citation services and using private blog networks (PBNs) to boost rankings.
