@@ -18,8 +18,13 @@
 -Link: (https://youtu.be/m5-YU5cPo10?si=uxa_LeP55yzyyJHc)
 - Date: (16-04-2026)
 -Note : Focuses on SEO fundamentals combined with AI-driven content strategies.
-##Koray Tugberk GUBUR
+#Koray Tugberk GUBUR
 -Platform: Youtube
 -Link: (https://youtu.be/FAJonNdKqw0?si=9_QhKCN_qQr3Fxbb)
 -Date: (16-04-2026)
 -Note:  Provides unique perspective on improving rankings.
+#Authority_hacker
+-Platform: Youtube
+-Link: (https://youtu.be/qm_KTYZ1Jxg?si=995uLLC2uj3X0F9y)
+-Date: (16-04-2026)
+-Note:  Provides Niche sites + AI content strategy.

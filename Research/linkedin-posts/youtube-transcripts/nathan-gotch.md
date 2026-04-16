@@ -1,8 +1,7 @@
 # Nathan Gotch - AI SEO
 
 ## Source
-https://youtu.be/m5-YU5cPo10?si=uxa_LeP55yzyyJHc
-
+(https://youtu.be/m5-YU5cPo10?si=uxa_LeP55yzyyJHc)
 ## Transcript
 Chapter 1: Intro – SEO + AI Plan (2026)
 
