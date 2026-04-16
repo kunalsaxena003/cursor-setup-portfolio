@@ -12,27 +12,27 @@
 - Platform: YouTube
 - Link: (https://youtu.be/7U56lzT6jMs?si=2nqWpes6OnOhM6u8)
 - Date: (16-04-2026)
-- Note: SEO expert sharing practical insights on using AI for content creation and optimization.
+- Note: SEO expert sharing practical insights on using AI for content creation and optimization
 #Nathan Gotch
 -Platform: Youtube
 -Link: (https://youtu.be/m5-YU5cPo10?si=uxa_LeP55yzyyJHc)
 - Date: (16-04-2026)
--Note : Focuses on SEO fundamentals combined with AI-driven content strategies.
+-Note : Focuses on SEO fundamentals combined with AI-driven content strategies
 #Koray Tugberk GUBUR
 -Platform: Youtube
 -Link: (https://youtu.be/FAJonNdKqw0?si=9_QhKCN_qQr3Fxbb)
 -Date: (16-04-2026)
--Note:  Provides unique perspective on improving rankings.
+-Note:  Provides unique perspective on improving rankings
 #Authority_hacker
 -Platform: Youtube
 -Link: (https://youtu.be/qm_KTYZ1Jxg?si=995uLLC2uj3X0F9y)
 -Date: (16-04-2026)
--Note:  Provides Niche sites + AI content strategy.
+-Note:  Provides Niche sites + AI content strategy
 #Ryan Doser
 -Platform: Youtube
 -Link: (https://youtu.be/c2dwmdcmF88?si=V_u--az0btXV8Jw1)
 -Date: (16-04-2026)
--Note:  Provides AI marketing + SEO automation.
+-Note:  Provides AI marketing + SEO automation
 #Lily Ray
 -Platform: Youtube
 -Link: (https://youtu.be/gyWQeIGzc3k?si=r6b7k4gQ1u5ImWTI)
@@ -43,4 +43,10 @@
 -Link: (https://youtu.be/yLXLHnD4fco?si=2M9wuV6ziGLQq43e)
 -Date: (16-04-2026)
 -Note:  Provides AI tool workflows for marketers
+#Jacky Chou
+-Platform: Youtube
+-Link: (https://youtu.be/CisEs9eMEGk?si=wQzAj8kZTiDa23HY)
+-Date: (16-04-2026)
+-Note: Updates on AI SEO tools in practice
+
 
