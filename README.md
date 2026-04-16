@@ -50,3 +50,87 @@
 
 ## Repository Link
 https://github.com/kunalsaxena003/cursor-setup-portfolio
+
+# AI-Powered SEO Content Production Research
+
+## Project Overview
+
+This project explores how modern SEO practitioners are using AI to scale content production, improve efficiency, and build topical authority.
+
+Instead of focusing on traditional SEO theory, this research is based on analyzing real-world content from experts actively using AI in their workflows.
+
+---
+
+## Objective
+
+The goal of this project is to:
+- Understand how AI is used in SEO content workflows
+- Identify patterns across different practitioners
+- Build a foundation for a practical AI SEO playbook
+
+---
+
+## Expert Selection Approach
+
+Experts were selected based on:
+- Active use of AI in SEO or content workflows
+- Practical, real-world implementation (not just theory)
+- Recent and relevant content
+- Consistent publishing and proven experience
+
+This ensures the research is based on high-signal sources rather than generic SEO advice.
+
+---
+
+## Data Collection Method
+
+Content was collected using a combination of:
+
+- YouTube transcripts (manual and tool-assisted extraction)
+- External transcript tools (for faster and structured retrieval)
+- AI tools (Claude / Codex) for organizing and structuring data
+
+This approach demonstrates practical use of available tools without overengineering a custom API pipeline.
+
+---
+
+## Repository Structure
+
+
+/research
+/sources.md
+/youtube-transcripts/
+/linkedin-posts/
+/other/
+
+
+- `sources.md` → list of experts with context and reasoning  
+- `youtube-transcripts/` → raw content collected from videos  
+- `linkedin-posts/` → additional content sources  
+- `other/` → supporting notes  
+
+---
+
+## Key Observations (Initial)
+
+Across multiple experts, common patterns include:
+
+- AI is used to speed up content production, not replace strategy  
+- Human editing is still critical for quality and ranking  
+- Topical authority is built by scaling content systematically  
+- Automation tools are used to reduce repetitive work  
+
+---
+
+## Outcome
+
+This repository serves as a structured research base that can be used to develop a real-world AI SEO content playbook.
+
+---
+
+## Tools Used
+
+- Cursor IDE  
+- GitHub  
+- Claude / Codex  
+- YouTube transcript tools  
