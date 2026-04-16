@@ -28,3 +28,9 @@
 -Link: (https://youtu.be/qm_KTYZ1Jxg?si=995uLLC2uj3X0F9y)
 -Date: (16-04-2026)
 -Note:  Provides Niche sites + AI content strategy.
+#Ryan Doser
+-Platform: Youtube
+-Link: (https://youtu.be/c2dwmdcmF88?si=V_u--az0btXV8Jw1)
+-Date: (16-04-2026)
+-Note:  Provides AI marketing + SEO automation.
+
